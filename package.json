@@ -1,0 +1,19 @@
+{
+  "name": "bastion-liquidator",
+  "scripts": {
+    "build": "hardhat compile",
+    "deploy": "hardhat deploy"
+  },
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.0.5",
+    "@openzeppelin/contracts": "^3.0.2",
+    "@typechain/ethers-v5": "^7.2.0",
+    "@typechain/hardhat": "^2.3.1",
+    "@types/node": "^12.20.46",
+    "dotenv": "^10.0.0",
+    "ethers": "^5.5.4",
+    "hardhat": "^2.8.4",
+    "typescript": "^4.5.5",
+    "ts-node": "^10.9.1"
+  }
+}
