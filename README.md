@@ -1,6 +1,12 @@
 # Liquidator Bot
 
-Bastion Liquidator using flashswap from Trisolaris liquidity pool
+Bastion Liquidator using flashswap from Trisolaris liquidity pool.
+
+<sub>
+
+The implementation does not include a method for collecting user addresses, liquidatable amounts, and positions. Users need to create their own custom endpoint to scrape the blockchain for liquidation opportunities.
+
+</sub>
 
 ## Installation
 
